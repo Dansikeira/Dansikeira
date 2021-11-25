@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Delphi
 - 📫 dvnilo@pm.me
-- Pronomes 😄: Ele/dele
+- :bowtie: Pronomes: Ele/dele
 
 <div align="center">
   <a href="https://github.com/Dansikeira">
