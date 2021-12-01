@@ -5,10 +5,10 @@
 - 📫 dvnilo@pm.me
 - :bowtie: Pronomes: Ele/dele
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Dansikeira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dansikeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansikeira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dansikeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align: right; height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansikeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
