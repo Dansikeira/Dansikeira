@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Dansikeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dansikeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align: right; height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansikeira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansikeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
@@ -26,7 +26,7 @@
   
   ##
   
-  <div> 
+  <div align="center"> 
  <a href="https://instagram.com/Dansikeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:dsdsants@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://dev.to/dansikeira" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&logoColor=white" target="_blank"></a>
