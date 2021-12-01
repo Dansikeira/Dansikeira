@@ -1,10 +1,5 @@
 ## Olá, eu sou o Dan Siqueira 👋
 
-
-##
-
-<img align="right" width= "100px" alt="Sapinho" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
-
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Delphi
 - 📫 dvnilo@pm.me
@@ -12,8 +7,8 @@
 
 <div align="left">
   <a href="https://github.com/Dansikeira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dansikeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansikeira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dansikeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dansikeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
@@ -45,6 +40,4 @@
   
   
   
-##
-
-<img align="left" width= "100px" alt="Sapinho" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
+<img align="right" width= "100px" alt="Sapinho" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
