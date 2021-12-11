@@ -1,8 +1,8 @@
 ## Olá, eu sou o Dan Siqueira 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Delphi
-- 📫 dvnilo@pm.me
+- 🌱 Estudando Java
+- 📫 talktodan@msn.com
 - :bowtie: Pronomes: Ele/dele
 
 <div align="center">
