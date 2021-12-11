@@ -14,11 +14,16 @@
   ##
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="Delphi" height="30" width="40" src="https://media.discordapp.net/attachments/912516056147427339/914025095196979220/iconDelphi.png?width=473&height=473"/>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Firebird" height="30" width="40" src="https://media.discordapp.net/attachments/912516056147427339/914025047180595271/iconFirebird.png"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="center" alt="Oracle" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+    
+    
+    
     
       
      
@@ -41,3 +46,14 @@
   
   
 <img align="right" width= "100px" alt="Sapinho" src="https://media3.giphy.com/media/j4pkNYz9KBVLYwwbog/giphy.gif?cid=790b7611a459fdeb505cdf151224009619597109adc7e1d1&rid=giphy.gif&ct=s">
+
+  
+  
+  
+   <h3> Visitantes </h3>  
+
+ <div>
+
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Dansikeira&color=green" alt="Dansikeira"/> <br>
+
+ </div>  
